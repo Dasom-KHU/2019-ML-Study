@@ -1,10 +1,13 @@
 # 2019-ML-Study
 
-- Member : 박형준, 정의동, 임지영, 이혜연, 곽교린
+### Intro
 
-### Goal
+- Member : 박형준, 정의동, 임지영, 이혜연, 곽교린
 - This study has 3 group. (박형준 / 임지영, 이혜연 / 정의동, 곽교린)
 - each group study different machine learning class and present each class once a week.
+
+### Goal
+
 
 ### Class list
 - Andrew Ng's machine learning class : [edwith](https://www.edwith.org/deeplearningai1)
