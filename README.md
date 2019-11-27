@@ -17,6 +17,6 @@
 1 Day : 22, Nov (Fri) <br>
 - 교린 : How to work with github wiki.
 - 혜연 : How can make github blog.
-- 의동 : Study Andrew Ng's machine learning class (1-1)
-- 지영 : Study Andrew Ng's machine learning class (1-1)
+- 의동 : Study Andrew Ng's machine learning class (1-1) to wiki
+- 지영 : Study Andrew Ng's machine learning class (1-1) to wiki
 
