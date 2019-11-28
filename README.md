@@ -7,9 +7,9 @@
 - each group study different machine learning class and present each class once a week.
 
 ### Goal
-- 형준 : 
+- 형준 : 최신 논문을 보고 논문 구현 및 응용 단계까지 나아가기.
 - 교린 : 
-- 혜연 : 
+- 혜연 :
 - 의동 : 
 - 지영 : 
 
