@@ -7,11 +7,11 @@
 - each group study different machine learning class and present each class once a week.
 
 ### Goal
-- 형준
-- 교린
-- 혜연
-- 의동
-- 지영
+- 형준 : 
+- 교린 : 
+- 혜연 : 
+- 의동 : 
+- 지영 : 
 
 ### Class list
 - Andrew Ng's machine learning class : [edwith](https://www.edwith.org/deeplearningai1)
